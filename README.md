@@ -9,10 +9,10 @@ Chương trình quản lý công việc nhóm kết hợp cá nhân
 
 ## Tính năng
 
-- Add task mới (tên + mô tả)
-- Thống kê task
-- Tìm kiếm task theo từ khóa và lọc
-- Lọc task: done / pending
+- Thêm task mới (tên + mô tả)
+- Hiển thị danh sách task theo định dạng bảng (thanh hieu)
+- Tìm kiếm task theo từ khóa
+- Lọc task theo trạng thái hoàn thành hoặc chưa xong (thanh hieu)
 - Đánh dấu task hoàn thành
 - Xóa task/ delete
 
