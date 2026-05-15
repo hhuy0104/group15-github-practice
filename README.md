@@ -9,7 +9,7 @@ Chương trình quản lý công việc cá nhân.
 ## Tính năng
 
 - Thêm task mới (tên + mô tả)
-- Hiển thị danh sách tất cả task
+- Hiển thị danh sách task theo định dạng bảng (thanh hieu)
 - Tìm kiếm task theo từ khóa
 - Lọc task theo trạng thái (chưa xong / hoàn thành)
 - Đánh dấu task hoàn thành
