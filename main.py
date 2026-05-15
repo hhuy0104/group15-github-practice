@@ -13,8 +13,15 @@ def main():
         print("4. Lọc task theo trạng thái")
         print("5. Đánh dấu hoàn thành")
         print("6. Xóa task")
+
+        # Các thành viên dễ sửa cùng chỗ này -> dễ tạo merge conflict
+        print("7. Thống kê task")
+        print("8. Export task ra file")
+
         print("0. Thoát")
         print("================================")
+
+        # TODO: thêm chức năng đồng bộ cloud trong tương lai
         
         choice = input("Chọn chức năng: ").strip()
         
@@ -60,6 +67,8 @@ def main():
             except (ValueError, IndexError):
                 print("✘ Số thứ tự không hợp lệ.")
 
+        elif choice == "7":
+            print("Chức năng đang phát triển...")
         elif choice == "0":
             print("Tạm biệt!")
             break
