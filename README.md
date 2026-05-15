@@ -1,10 +1,10 @@
-# group15-github-practice
+# groupX-github-practice
 
 Bài thực hành Git & GitHub – Môn Quản lý dự án
 
 ## Đề tài: To-do List (Python)
 
-Chương trình quản lý công việc cá nhân.
+Chương trình quản lý công việc cá nhân chạy trên terminal.
 
 ## Tính năng
 
@@ -24,11 +24,19 @@ Chương trình quản lý công việc cá nhân.
 └── display.py    # Hiển thị và format output
 ```
 
+## Cách chạy
+
+```bash
+python main.py
+```
+
+> Yêu cầu Python 3.x, không cần cài thêm thư viện nào.
+
 ## Thành viên nhóm
 
 | STT | Họ tên | MSSV | Branch |
 |-----|--------|------|--------|
-| 1   | Trần Hoàng Huy | 24520700 | huy_branch |
-| 2   | Nguyễn Phước An | 24520064 | phuocan_branch |
-| 3   | Nguyễn Thành Công | 24520233 | thanhcong_branch |
-| 4   | Lê Thành Hiệu | 24520496 | thanhhieu_branch |
+| 1   |        |      | feature-main |
+| 2   |        |      | feature-task |
+| 3   |        |      | feature-search |
+| 4   |        |      | feature-display |
