@@ -25,7 +25,6 @@ Chương trình quản lý công việc cá nhân.
 ```
 
 ## Thành viên nhóm
--Thành Công
 
 | STT | Họ tên | MSSV | Branch |
 |-----|--------|------|--------|
