@@ -12,7 +12,7 @@ Chương trình quản lý công việc nhóm kết hợp cá nhân
 - Add task mới (tên + mô tả)
 - Thống kê task
 - Tìm kiếm task theo từ khóa và lọc
-- Lọc task theo trạng thái (chưa xong / hoàn thành)
+- Lọc task: done / pending
 - Đánh dấu task hoàn thành
 - Xóa task/ delete
 
