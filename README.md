@@ -1,28 +1,32 @@
 # group15-github-practice
 
 Bài thực hành Git & GitHub – Môn Quản lý dự án
+thuộc môn quản lý dự án
 
 ## Đề tài: To-do List (Python)
 
-Chương trình quản lý công việc cá nhân.
+Chương trình quản lý công việc nhóm kết hợp cá nhân
 
 ## Tính năng
 
-- Thêm task mới (tên + mô tả)
-- Hiển thị danh sách tất cả task
-- Tìm kiếm task theo từ khóa
+- Add task mới (tên + mô tả)
+- Thống kê task
+- Tìm kiếm task theo từ khóa và lọc
 - Lọc task theo trạng thái (chưa xong / hoàn thành)
 - Đánh dấu task hoàn thành
-- Xóa task
+- Xóa task/ delete
 
-## Cấu trúc project
+## Cấu trúc thư mục
 
 ```
 ├── main.py       # Menu chính, điều hướng chức năng
 ├── task.py       # Class Task và TaskManager
 ├── utils.py      # Tìm kiếm, lọc, thống kê
 └── display.py    # Hiển thị và format output
+
 ```
+
+
 
 ## Thành viên nhóm
 
